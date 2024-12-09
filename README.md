@@ -1,5 +1,15 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Tools
+
+NextJS - v15.0.3
+Tailwind - v3.4.1
+MongoDB - v7.0.14
+
+## Noted
+
+Before getting started, make sure to update the .env file.
+
 ## Getting Started
 
 First, run the development server:
