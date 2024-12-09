@@ -1,0 +1,272 @@
+[{
+  "_id": {
+    "$oid": "66ff5a00f74d452a38531c0d"
+  },
+  "ticketId": "ISS-1",
+  "week": 1,
+  "client": "ISS",
+  "createdDate": "2024-10-03",
+  "requesterName": "Test Dev",
+  "description": "Test Dev",
+  "appModule": "E-SLA",
+  "resolution": "Test Dev",
+  "resolvedDate": "2024-10-03",
+  "resolvedBy": "Test Dev",
+  "requestType": "Cancel Request",
+  "modeTicket": "Phone",
+  "priority": "Low",
+  "status": "Close",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-04T02:59:12.467Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T02:59:12.467Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ff5a02f74d452a38531c11"
+  },
+  "ticketId": "ISS-2",
+  "week": 1,
+  "client": "ISS",
+  "createdDate": "2024-10-03",
+  "requesterName": "Test Dev",
+  "description": "Test Dev",
+  "appModule": "E-Reliever",
+  "resolution": null,
+  "resolvedDate": null,
+  "resolvedBy": null,
+  "requestType": "Service Request",
+  "modeTicket": "WA Personal",
+  "priority": "Low",
+  "status": "Open",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-04T02:59:14.794Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T02:59:14.794Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ff5a05f74d452a38531c15"
+  },
+  "ticketId": "Honda-1",
+  "week": 1,
+  "client": "Honda",
+  "createdDate": "2024-10-03",
+  "requesterName": "Test Dev",
+  "description": "Test Dev",
+  "appModule": "H-SLA",
+  "resolution": "Test Dev",
+  "resolvedDate": "2024-10-03",
+  "resolvedBy": "Test Dev",
+  "requestType": "Cancel Request",
+  "modeTicket": "Phone",
+  "priority": "Low",
+  "status": "Close",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-04T02:59:17.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T02:59:17.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ff5b07f74d452a38531c2a"
+  },
+  "ticketId": "ISS-5",
+  "week": 1,
+  "client": "ISS",
+  "createdDate": "2024-10-01",
+  "requesterName": "Roni",
+  "description": "\n",
+  "appModule": "E-Reliever",
+  "resolution": "Baik Pak, silahkan dicoba input username dan password seperti akun SunFish yah🙏",
+  "resolvedDate": "2024-10-01",
+  "resolvedBy": "Dani",
+  "requestType": "Trouble Ticket",
+  "modeTicket": "WA Personal",
+  "priority": "Low",
+  "status": "Close",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-04T03:03:35.754Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T03:03:35.754Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ff5c96772e246db64ada49"
+  },
+  "ticketId": "ISS-8",
+  "week": 1,
+  "client": "ISS",
+  "createdDate": "2024-10-03",
+  "requesterName": "Agustinus",
+  "description": "Selamat siang pak /ibu \nNama misrinah\nNik 1729303\nNo tlpn 081213465103\n\nmohon bantuan untu bisa login ke iss excelen ,untuk keperluan update qsa terimakasih",
+  "appModule": "E-QSA",
+  "resolution": "Sudah selesai dipandu untuk login ISS",
+  "resolvedDate": "2024-10-03",
+  "resolvedBy": "Mely",
+  "requestType": "Service Request",
+  "modeTicket": "Email",
+  "priority": "Low",
+  "status": "Close",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-04T03:10:14.391Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T03:10:14.391Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ff5d5c772e246db64ada5c"
+  },
+  "ticketId": "ISS-9",
+  "week": 1,
+  "client": "ISS",
+  "createdDate": "2024-10-02",
+  "requesterName": "eki",
+  "description": "login",
+  "appModule": "E-Reliever",
+  "resolution": "dipandu",
+  "resolvedDate": "2024-10-04",
+  "resolvedBy": "mely",
+  "requestType": "Service Request",
+  "modeTicket": "WA Personal",
+  "priority": "Low",
+  "status": "Close",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-04T03:13:32.043Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T03:13:32.043Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6736f1b9c756b94165671469"
+  },
+  "ticketId": "ISS-63",
+  "week": 1,
+  "client": "ISS",
+  "createdDate": "2024-11-08",
+  "requesterName": "test ",
+  "description": "testt",
+  "appModule": "E-Reliever",
+  "resolution": "test ",
+  "resolvedDate": "2024-11-01",
+  "resolvedBy": "tr",
+  "requestType": "Service Request",
+  "modeTicket": "WA Personal",
+  "priority": "Low",
+  "status": "Close",
+  "lastUpdateBy": {
+    "$oid": "6731aa21ca7a5e3399d5f09a"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-11-15T07:01:13.257Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-15T07:01:13.257Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6736f478c756b941656714dd"
+  },
+  "ticketId": "ISS-66",
+  "week": 3,
+  "client": "ISS",
+  "createdDate": "2024-10-15",
+  "requesterName": "Eky",
+  "description": "test",
+  "appModule": "E-Reliever",
+  "resolution": "test",
+  "resolvedDate": "2024-10-15",
+  "resolvedBy": "test",
+  "requestType": "Service Request",
+  "modeTicket": "WA Personal",
+  "priority": "Low",
+  "status": "Close",
+  "lastUpdateBy": {
+    "$oid": "6731aa21ca7a5e3399d5f09a"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-11-15T07:12:56.502Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-15T07:12:56.502Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6736f47bc756b941656714e6"
+  },
+  "ticketId": "ISS-65",
+  "week": 2,
+  "client": "ISS",
+  "createdDate": "2024-10-10",
+  "requesterName": "TEST",
+  "description": "TEST",
+  "appModule": "E-SLA",
+  "resolution": "TEST",
+  "resolvedDate": "2024-10-10",
+  "resolvedBy": "TEST",
+  "requestType": "Service Request",
+  "modeTicket": "WA Personal",
+  "priority": "Low",
+  "status": "Close",
+  "lastUpdateBy": {
+    "$oid": "6731aa21ca7a5e3399d5f09a"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-11-15T07:12:59.306Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-15T07:12:59.306Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6736f47ec756b941656714ed"
+  },
+  "ticketId": "ISS-64",
+  "week": 2,
+  "client": "ISS",
+  "createdDate": "2024-10-10",
+  "requesterName": "TEST",
+  "description": "TEST",
+  "appModule": "E-SLA",
+  "resolution": "TEST",
+  "resolvedDate": "2024-10-10",
+  "resolvedBy": "TEST",
+  "requestType": "Service Request",
+  "modeTicket": "WA Personal",
+  "priority": "Low",
+  "status": "Close",
+  "lastUpdateBy": {
+    "$oid": "6731aa21ca7a5e3399d5f09a"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-11-15T07:13:02.008Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-15T07:13:02.008Z"
+  }
+}]

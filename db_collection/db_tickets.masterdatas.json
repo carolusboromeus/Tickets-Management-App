@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "66d19f1600c54fe3678cf9ae"
+  },
+  "client": "ISS",
+  "__v": 0,
+  "appModule": [
+    {
+      "_id": {
+        "$oid": "66f3bcac60c031db20b44c65"
+      },
+      "name": "E-Reliever"
+    },
+    {
+      "_id": {
+        "$oid": "66f3bcc960c031db20b44c6c"
+      },
+      "name": "E-SLA"
+    },
+    {
+      "_id": {
+        "$oid": "66f3bcd660c031db20b44c70"
+      },
+      "name": "E-Doc"
+    },
+    {
+      "_id": {
+        "$oid": "66f3bce360c031db20b44c74"
+      },
+      "name": "E-SLA PMI"
+    },
+    {
+      "_id": {
+        "$oid": "66f3bcee60c031db20b44c78"
+      },
+      "name": "E-Mitra"
+    },
+    {
+      "_id": {
+        "$oid": "66f3bcf560c031db20b44c7c"
+      },
+      "name": "E-Sign"
+    },
+    {
+      "_id": {
+        "$oid": "66f3bcfc60c031db20b44c80"
+      },
+      "name": "E-QSA"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66e90bae5d784c63cf065b9f"
+  },
+  "client": "Honda",
+  "appModule": [
+    {
+      "_id": {
+        "$oid": "673ac70bc756b94165671656"
+      },
+      "name": "Honda"
+    }
+  ],
+  "__v": 0
+}]

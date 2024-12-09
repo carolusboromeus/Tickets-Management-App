@@ -9,9 +9,21 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@flaticon/flaticon-uicons": "^3.3.1",
+    "@headlessui/react": "^2.2.0",
+    "axios": "^1.7.7",
+    "bcrypt": "^5.1.1",
+    "chart.js": "^4.4.6",
+    "chartjs-plugin-datalabels": "^2.2.0",
+    "cookie": "^1.0.2",
+    "jsonwebtoken": "^9.0.2",
+    "lodash": "^4.17.21",
+    "mongoose": "^8.8.2",
+    "next": "15.0.3",
     "react": "19.0.0-rc-66855b96-20241106",
+    "react-chartjs-2": "^5.2.0",
     "react-dom": "19.0.0-rc-66855b96-20241106",
-    "next": "15.0.3"
+    "xlsx-js-style": "^1.2.0"
   },
   "devDependencies": {
     "postcss": "^8",

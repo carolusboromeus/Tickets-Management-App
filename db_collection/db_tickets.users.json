@@ -1,0 +1,127 @@
+[{
+  "_id": {
+    "$oid": "67249fd22c46292307ebd71f"
+  },
+  "name": {
+    "fullName": "Admin Dev",
+    "firstName": "Admin",
+    "lastName": "Dev"
+  },
+  "email": "admindev@dartmedia.com",
+  "password": "$2b$10$ECl1CW45l1xqlStmSiIjQ.OTElxHI.xcm0zYdCTStjJGQmSoEPBo.",
+  "type": "Admin",
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-11-01T09:30:58.028Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-08T04:48:30.520Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731a9faca7a5e3399d5f097"
+  },
+  "name": {
+    "fullName": "Suci Sofyati",
+    "firstName": "Suci",
+    "lastName": "Sofyati"
+  },
+  "email": "sucidartmedia@gmail.com",
+  "password": "$2b$10$SY.VhDncn1jRbQOGXBWuM.xYXVE24oq2.NeIa6UfaZKsSpDVvnqvu",
+  "type": "Admin",
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-11-11T06:53:46.436Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T06:53:46.436Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731aa21ca7a5e3399d5f09a"
+  },
+  "name": {
+    "fullName": "Mely Wahyuningsih",
+    "firstName": "Mely",
+    "lastName": "Wahyuningsih"
+  },
+  "email": "melydartmedia@gmail.com",
+  "password": "$2b$10$ccd2ItOYhTdpyR9u/36FR.UWOnNif5l0Qjb.t0VKd7269Qqr65PLS",
+  "type": "Admin",
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-11-11T06:54:25.847Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T06:54:25.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731aa3bca7a5e3399d5f09d"
+  },
+  "name": {
+    "fullName": "Lydia Valentine",
+    "firstName": "Lydia",
+    "lastName": "Valentine"
+  },
+  "email": "lydia@hub9.biz",
+  "password": "$2b$10$VYq3LRK1TRl4QgsepPCGJOjfCngv1pIhn/dATHseMTrkDN1OpLyhm",
+  "type": "Admin",
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-11-11T06:54:51.911Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T06:54:51.911Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6731aa4cca7a5e3399d5f0a0"
+  },
+  "name": {
+    "fullName": "Khanti Kusima Dewi",
+    "firstName": "Khanti",
+    "lastName": "Kusima Dewi"
+  },
+  "email": "khanti@dartmedia.biz",
+  "password": "$2b$10$eA26TrsXtdtXeMQCXUXAN.b3aIPCaUYQ9cI6KwuYab4tFFDRd31uC",
+  "type": "Admin",
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-11-11T06:55:08.138Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T06:55:08.138Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673ac6a4c756b9416567164c"
+  },
+  "name": {
+    "fullName": "Agustinus Irwanto",
+    "firstName": "Agustinus",
+    "lastName": "Irwanto"
+  },
+  "email": "agustinus.irwanto@id.issworld.com",
+  "password": "$2b$10$pUZ1tlfwjzzSdvyA2EN8xeWTFt.cP5Q5a8AdTHbpgBU9njsqpgjXO",
+  "type": "Client",
+  "client": "ISS",
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-11-18T04:46:28.185Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-18T04:46:28.185Z"
+  }
+}]
