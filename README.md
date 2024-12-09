@@ -2,8 +2,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Tools
 
-NextJS - v15.0.3
-Tailwind - v3.4.1
+NextJS - v15.0.3 \
+Tailwind - v3.4.1 \
 MongoDB - v7.0.14
 
 ## Noted
